@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: c24ce002-a2b2-43a4-85c5-3805b97be684
+
+localResources:
+  collections:
+    - ../CourseAsset/courseAssets/postman/Restore.postman_collection.json
